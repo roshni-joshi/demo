@@ -13,6 +13,7 @@ int id = Integer.parseInt(request.getParameter("id"));
 
 %>
 
+<h3>Updation form</h3>
 
 <form action="display_data">
 
